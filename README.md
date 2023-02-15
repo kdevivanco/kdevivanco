@@ -9,7 +9,11 @@
 
 ## Full Stack Software Developer
 
-### My favorite language is Python and I love Back-End Development! 
+<em>
+
+### My favorite language is Python and I love Back-End Development! 🐍
+
+</em>
 
 ## Languages and Tools:
 Python | JavaScript | HTML | CSS | PHP | jQuery | JSON | Flask | React.js 
