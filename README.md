@@ -12,8 +12,8 @@
 
 ## Follow me! 
 
-[HackerRank] : https://www.hackerrank.com/kdevivanco
-[LinkedIn] : https://www.linkedin.com/in/kayla-de-vivanco-42b5b9179
+👓 HackerRank: https://www.hackerrank.com/kdevivanco
+💼 LinkedIn : https://www.linkedin.com/in/kayla-de-vivanco-42b5b9179
 
 
 
