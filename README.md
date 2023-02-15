@@ -31,7 +31,7 @@ Python | JavaScript | HTML | CSS | PHP | jQuery | JSON | Flask | React.js
 
 - 👓 HackerRank: https://www.hackerrank.com/kdevivanco
 - 💼 LinkedIn : https://www.linkedin.com/in/kayla-de-vivanco-42b5b9179
-📫 Reach out ->  **kdevivanco@gmail.com**
+- 📫 Reach out ->  **kdevivanco@gmail.com**
 
 ## My GitHub Stats
   
