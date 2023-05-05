@@ -4,7 +4,9 @@
 <br>
 
 # Hi, I'm Kayla 
-## Computer Science Student & Certified Full Stack Software Developer
+## Computer Science Student 
+## & 
+## Certified Full Stack Software Developer
 
 </div>
 
