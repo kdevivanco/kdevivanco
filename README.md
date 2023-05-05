@@ -4,6 +4,8 @@
 <br>
 
 # Hi, I'm Kayla 
+  
+  <br>
 ## Computer Science Student 
 ## & 
 ## Certified Full Stack Software Developer
