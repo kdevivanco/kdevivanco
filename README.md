@@ -11,7 +11,7 @@
 
 
 ## Languages and Tools:
-Python | C++ | SQL | JavaScript | R |  HTML | CSS | PHP | jQuery | JSON | Flask | React.js 
+Python | C++ | SQL | JavaScript | R |  HTML | CSS | PHP | jQuery | PostgreSQL | MySQL | JSON | Flask | React.js 
 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -36,10 +36,7 @@ Python | C++ | SQL | JavaScript | R |  HTML | CSS | PHP | jQuery | JSON | Flask 
 - 📫 Reach out ->  **kdevivanco@gmail.com**
 
 ## My GitHub Stats
-  
-<p align="center">
-<img  alt="kdevivanco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kdevivanco&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=contribs,prs&count_private=true" />
-</p>
+
 <p align="center">
 <img  alt="kdevivanco's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdevivanco&hide=,html,typescript,scss,ruby,powershell&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </p>
