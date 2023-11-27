@@ -11,7 +11,7 @@
 
 
 ## Languages and Tools:
-Python | C++ | SQL | JavaScript | R |  HTML | CSS | PHP | jQuery | PostgreSQL | MySQL | JSON | Flask | React.js 
+Python | C++ | JAVA | JavaScript | TypeScript | SQL | R |  HTML | CSS | PHP | jQuery | PostgreSQL | MySQL | JSON | Flask | SpringBoot | Django | FastAPI | React Native | React.js 
 
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
